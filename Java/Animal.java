@@ -1,3 +1,5 @@
+package Java;
+
 public class Animal {
     private String name;
     private String command;
